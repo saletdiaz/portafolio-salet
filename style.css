@@ -244,19 +244,19 @@ form button:hover {
 }
 
 .decoracion-costado.izquierda {
-  left: 35rem;
+  left: 40rem;
 }
 .decoracion-costado.derecha {
-  right: 35rem;
+  right: 40rem;
 }
 /* Solo para la imagen de curiosidad (izquierda) */
 .decoracion-costado.izquierda img[alt="Curiosidad"] {
-  margin-top: 35rem; /* 👈 ajusta según lo que necesites */
+  margin-top: 40rem; /* 👈 ajusta según lo que necesites */
 }
 
 /* Solo para la imagen de creatividad (derecha) */
 .decoracion-costado.derecha img[alt="Creatividad"] {
-  margin-top: 35rem; /* 👈 igual que arriba, puedes probar con 2rem, 4rem, etc. */
+  margin-top: 40rem; /* 👈 igual que arriba, puedes probar con 2rem, 4rem, etc. */
 }
 
 
